@@ -235,4 +235,4 @@ When producing UI output:
 2. **Then produce the code** — HTML/CSS/JSX depending on context
 3. **Inline comments** on non-obvious design decisions (e.g., `/* 24px gap — breathing room between unrelated sections */`)
 
-For complex UIs, read `/references/patterns.md` for extended component recipes.
+For complex UIs, read `references/patterns.md` for extended component recipes.
